@@ -5,3 +5,4 @@ kroce jaskatas, domaju ka saies
 otrais ieraksts
 nu tresais
 
+8rindaq

@@ -7,4 +7,4 @@ nu tresais
 
 8rindaq
 9rinda
-meginu otraja branchā
+meginu otraja branchā yes

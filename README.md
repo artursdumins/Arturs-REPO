@@ -9,5 +9,5 @@ nu tresais
 9rinda
 meginu otraja branchā yes
 
-kroce atkal meginu otraja branchā
+kroce atkal meginu otraja branchā test 2
 

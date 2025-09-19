@@ -8,3 +8,6 @@ nu tresais
 8rindaq
 9rinda
 meginu otraja branchā yes
+
+kroce atkal meginu otraja branchā
+
